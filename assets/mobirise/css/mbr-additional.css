@@ -683,6 +683,7 @@ a:hover {
   right: 0;
   top: 0;
   z-index: 0;
+  pointer-events: none;
 }
 blockquote {
   font-style: italic;
@@ -1383,12 +1384,12 @@ body {
 }
 .cid-qTkzRZLJNu .navbar {
   padding: .5rem 0;
-  background: #073b4c;
+  background: #6e1515;
   transition: none;
   min-height: 77px;
 }
 .cid-qTkzRZLJNu .navbar-dropdown.bg-color.transparent.opened {
-  background: #073b4c;
+  background: #6e1515;
 }
 .cid-qTkzRZLJNu a {
   font-style: normal;
@@ -1472,7 +1473,7 @@ body {
   padding-bottom: 0;
 }
 .cid-qTkzRZLJNu .dropdown .dropdown-menu {
-  background: #073b4c;
+  background: #6e1515;
   display: none;
   position: absolute;
   min-width: 5rem;
